@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.b54621ec.css",
+    "main.js": "/react-portfolio/static/js/main.9aec8dbf.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/workpicthumbnail.jpg": "/react-portfolio/static/media/workpicthumbnail.7bebb231d5cd9e90f247.jpg",
+    "static/media/weatherdashboard.png": "/react-portfolio/static/media/weatherdashboard.163a8e6daf86f519b798.png",
+    "static/media/passwordGenerator.png": "/react-portfolio/static/media/passwordGenerator.2afa097f39d5854a66f5.png",
+    "static/media/workDayScheduler.png": "/react-portfolio/static/media/workDayScheduler.4c907e3326d98eb0b69b.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.b54621ec.css.map": "/react-portfolio/static/css/main.b54621ec.css.map",
+    "main.9aec8dbf.js.map": "/react-portfolio/static/js/main.9aec8dbf.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b54621ec.css",
+    "static/js/main.9aec8dbf.js"
+  ]
+}
